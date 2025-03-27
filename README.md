@@ -1,3 +1,6 @@
+Implements Djikstras Algorithm(sort of), the algorithm uses a priority queue to explore the most efficient path. It stores then returns the path that costs the least health.
+
+
 The demons had captured the princess and imprisoned her in the bottom-right corner of a dungeon. The dungeon consists of m x n rooms laid out in a 2D grid. Our valiant knight was initially positioned in the top-left room and must fight his way through dungeon to rescue the princess.
 
 The knight has an initial health point represented by a positive integer. If at any point his health point drops to 0 or below, he dies immediately.
